@@ -1,0 +1,18 @@
+{
+  "name": "signalk-notifcation-acker",
+  "version": "1.0.0",
+  "description": "SignalK Node Server Plugin that auto acknowledges configured notifications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "signalk-node-server-plugin"
+  ],
+  "author": "scott@scottbender.net",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "baconjs": "^0.7.88",
+    "debug": "^2.2.0"
+  }
+}
